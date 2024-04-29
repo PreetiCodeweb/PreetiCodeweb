@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preeticodeweb" alt="preeticodeweb" /></a> </p>
 
-- 🔭 I’m currently working on **UI/UX Designing**
+- 🔭 I’m currently working on : **UI/UX Designing**
 
-- 🌱 I’m currently studying in school **Aspire to become a software developer**
+- 🌱 Studying in school, **Aspire to become a software developer**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 About me **Interested in learning about ML/AI**
+- 💬 About me : **Interested in learning about ML/AI**
 
 - 📫 How to reach me **sasmalpreeti@gmail.com**
 
