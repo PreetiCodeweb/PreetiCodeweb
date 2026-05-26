@@ -80,9 +80,6 @@ class PreetiSasmal:
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=preeticodeweb&show_icons=true&theme=tokyonight"/>
-
 ## 🔥 GitHub Streak
 <img src="https://streak-stats.demolab.com?user=preeticodeweb&theme=tokyonight"/>
 
