@@ -80,34 +80,17 @@ class PreetiSasmal:
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=preeticodeweb&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeticodeweb&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=preeticodeweb&show_icons=true&theme=tokyonight"/>
 
 ## 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=preeticodeweb&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=preeticodeweb&theme=tokyonight" />
-</p>
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=preeticodeweb&theme=tokyo-night"/>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=preeticodeweb&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
+## 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=preeticodeweb&theme=tokyonight"/>
 ## 📚 2026 Learning Roadmap
 
 - ✅ Advanced Python
