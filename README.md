@@ -1,29 +1,159 @@
 <h1 align="center">Hi 👋, I'm Preeti Sasmal</h1>
-<h3 align="center">A passionate Frontend developer from India. Learning Backend Recently.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preeticodeweb&label=Profile%20views&color=0e75b6&style=flat" alt="preeticodeweb" /> </p>
+<h3 align="center">
+🚀 Aspiring Software Engineer | Python Developer | AI & Mathematics Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preeticodeweb" alt="preeticodeweb" /></a> </p>
-
-- 🔭 I’m currently working on : **UI/UX Designing**
-
-- 🌱 Studying in school, **Aspire to become a software developer**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 💬 About me : **Interested in learning about ML/AI**
-
-- 📫 How to reach me **sasmalpreeti@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/psasmal68549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psasmal68549" height="30" width="40" /></a>
-<a href="https://instagram.com/sasmalpreeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasmalpreeti" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Projects+with+Python;Learning+AI+%26+Data+Science;Future+Software+Engineer;Open+Source+Contributor;Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preeticodeweb&show_icons=true&locale=en&layout=compact" alt="preeticodeweb" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preeticodeweb&show_icons=true&locale=en" alt="preeticodeweb" /></p>
+```python
+class PreetiSasmal:
+
+    def __init__(self):
+        self.location = "India 🇮🇳"
+        self.education = "Student"
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Mathematics",
+            "Software Engineering",
+            "Open Source"
+        ]
+
+    def current_focus(self):
+        return [
+            "Python Development",
+            "Data Structures & Algorithms",
+            "Machine Learning",
+            "Full Stack Development"
+        ]
+```
+
+🌱 Currently learning **Python, Data Science, AI, and Full-Stack Development**
+
+💡 Interested in **Artificial Intelligence, Mathematics, Trading, and Entrepreneurship**
+
+🎯 Goal: Build impactful technology products and contribute to Open Source
+
+⚡ Fun Fact: I enjoy solving mathematical problems as much as writing code.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,tensorflow,pytorch" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=preeticodeweb&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeticodeweb&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=preeticodeweb&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=preeticodeweb&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📚 2026 Learning Roadmap
+
+- ✅ Advanced Python
+- 🔄 NumPy
+- 🔄 Pandas
+- 🔄 Data Structures & Algorithms
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- 🔄 Cloud Computing
+- 🔄 Docker & Kubernetes
+- 🔄 Golang
+- 🔄 System Design
+
+---
+
+## 🌟 Featured Projects
+
+### 🐍 Python Mini Projects
+A collection of beginner to advanced Python projects.
+
+### ⏰ Python Alarm Clock
+Desktop alarm clock built with Python.
+
+### 🌐 Full Stack Web Applications
+Modern web apps built with React and Node.js.
+
+### 🤖 AI & Machine Learning Projects
+Experiments, models, and learning projects.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/preeticodeweb">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/sasmalpreeti">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ "Code. Learn. Build. Repeat."
+</p>
