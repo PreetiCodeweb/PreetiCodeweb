@@ -86,36 +86,6 @@ class PreetiSasmal:
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=preeticodeweb&theme=tokyo-night"/>
 
-## 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=preeticodeweb&theme=tokyonight"/>
-## 📚 2026 Learning Roadmap
-
-- ✅ Advanced Python
-- 🔄 NumPy
-- 🔄 Pandas
-- 🔄 Data Structures & Algorithms
-- 🔄 Machine Learning
-- 🔄 Deep Learning
-- 🔄 Cloud Computing
-- 🔄 Docker & Kubernetes
-- 🔄 Golang
-- 🔄 System Design
-
----
-
-## 🌟 Featured Projects
-
-### 🐍 Python Mini Projects
-A collection of beginner to advanced Python projects.
-
-### ⏰ Python Alarm Clock
-Desktop alarm clock built with Python.
-
-### 🌐 Full Stack Web Applications
-Modern web apps built with React and Node.js.
-
-### 🤖 AI & Machine Learning Projects
-Experiments, models, and learning projects.
 
 ---
 
