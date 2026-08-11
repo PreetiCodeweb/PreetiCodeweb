@@ -96,7 +96,7 @@ class PreetiSasmal:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://instagram.com/sasmalpreeti">
+<a href="https://instagram.com/sasmal_preeti">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
