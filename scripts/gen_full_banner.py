@@ -109,8 +109,8 @@ svg.append(f'<line x1="{rx}" y1="{y}" x2="{W-PAD:.0f}" y2="{y}" stroke="{DIM}" s
 y += 30
 
 kv("OS", "AI/ML x CS x Art")
-kv("Host", "Bengaluru / West Bengal, IN")
-kv("Kernel", "Python 3.x")
+kv("Host", "Kolkata, West Bengal, IN")
+kv("Kernel", "Python 3.x, Node/Express")
 kv("Role", "AI Engineer / Builder")
 kv("Status", "1st-yr CS (AI &#38; ML) &#183; Grad 2030")
 y += 12
