@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-banner.svg" alt="preeti@devbox terminal" width="100%" />
+<img src="assets/terminal-banner.svg" alt="PreeticodeWeb terminal" width="100%" />
 
 <br/><br/>
 
