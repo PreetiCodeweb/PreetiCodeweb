@@ -1,3 +1,10 @@
+<div align="center">
+
+  <!-- ASCII Portrait & Terminal Info -->
+  <table>
+    <tr>
+      <td width="50%" align="left">
+        <pre>
 1)uQCXf/\(fxcLphMMoon()jZr0((|(|jt\||//fvC0h###o*#MM*#Mo*W#*ohhho*MWM#*#MMMoha#MMWMW*dO00OOOQOOOOOO0OZZZZZOZOQQQ00OOOOOOOOOOOZZZZZZZZOOOO00X-_+~+:'``  lI!:`"::i+~~~~vQQQLQUrtfnxxxr\1[}{1{1]:
 }1juUUUnJzuuvuuJkdnuv|rmCZQ/)}]]}1))(vmh***#*a*o#MMM#MM*#M#M#kmZZZwdha*#*kdddbh#MWWW*pmOOOOO000Q00OOOZZZOCCCQ0ZOOOZOOOOZZZOOOOZZZZZZZZOOO00Y-++~+:'``  ll!:`",:i+~~~~vQQQQQYt\//|\//|}[{11{((!
 1t)-[(uz0pznnxjftx|(vjtv11|\tXUvf(}})(rd###*o*#*#M##a##*MM####hqOOO00Owh#awO00ZhMMWW#hwZZOOO00OOZZOOZZCCJQLCJLCYXXYC0OZOOOZZZmmOZOmZZZOOO00Y-++~~:''` .l!i:`",:i_+~~~uQQQQQYt({}}}}{1[][{111)+
@@ -126,3 +133,129 @@ OZwdkahbpqqqqwwwmmZCvr\_<!l;;I,,'.`        `   ''` .`.    . `^`'''.     ..``"^``
 '. .'.'.... '.. '.. '.       .. ..       ..      ,XZmwwqqqpppppppppqqqqwwwwwwwwwwwwmmmZZZmmmm0Cv/f!xQOZmqqqwmmOZZO0OQQJYXzccvf"                      ^^"`"^:`,:^"":',;:`,:^,`:^`,^'"`^.`,^ ^^:
 .' .'.. ... .' .'...'.       ..  ..       ..     .^/mmwwqqpppppppppppqqqqqwwwwwwmmmmmmmmZZZmmQv!{f!v0OZZZmmmmZOOOO00QUYXzzcv)'                       .,,"`,^,'::`::,.:;,';I^^^:^`,"^"``'^"'.`;
 .. .... '' '.  ..' .'. '          .       . .      .)mmwwqqpppppppqqqqqqqqqwqwqwwmmmmmmmmmmmmmCY\tCOZZZZZOOOOO00000QUYXXXcv-                          ,:,"^",,^:,^;,^,:;:`I:,^";`^`","'`^,^` :
+        </pre>
+      </td>
+      <td width="50%" align="left">
+        <pre>
+<span style="color:#00ff00;">preeti@devbox</span>:<span style="color:#00ffff;">~</span>$ whoami
+<pre style="color:#ffffff;">
+👩‍💻 Full Stack Developer
+🎨 Creative Designer
+🌟 Open Source Enthusiast
+📚 Lifelong Learner
+</pre>
+
+<span style="color:#00ff00;">preeti@devbox</span>:<span style="color:#00ffff;">~</span>$ cat skills.txt
+<pre style="color:#ffffff;">
+• JavaScript/TypeScript
+• React & Next.js
+• Node.js & Express
+• Python & Django
+• UI/UX Design
+• Cloud Architecture
+</pre>
+
+<span style="color:#00ff00;">preeti@devbox</span>:<span style="color:#00ffff;">~</span>$ echo $LOCATION
+<pre style="color:#ffffff;">
+📍 San Francisco, CA
+</pre>
+
+<span style="color:#00ff00;">preeti@devbox</span>:<span style="color:#00ffff;">~</span>$ uptime
+<pre style="color:#ffffff;">
+⏰ Coding since 2018
+</pre>
+        </pre>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Hi, I'm Preeti Section -->
+  <h1 align="center">Hi, I'm Preeti 👋</h1>
+  
+  <p align="center">
+    <a href="https://github.com/preetisasmal"><img src="https://img.shields.io/badge/GitHub-preetisasmal-blue?style=flat-square&logo=github" alt="GitHub"></a>
+    <a href="https://linkedin.com/in/preetisasmal"><img src="https://img.shields.io/badge/LinkedIn-preetisasmal-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+    <a href="mailto:preeti@example.com"><img src="https://img.shields.io/badge/Email-preeti@example.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+    <a href="https://twitter.com/preetisasmal"><img src="https://img.shields.io/badge/Twitter-preetisasmal-blue?style=flat-square&logo=twitter" alt="Twitter"></a>
+  </p>
+
+  <p align="center">
+    I'm a passionate full-stack developer who loves building beautiful, functional, and user-centered digital experiences. With expertise in both front-end and back-end technologies, I bring ideas to life through clean code and creative design.
+  </p>
+
+  <!-- What I'm Building Section -->
+  <h2 align="center">🚀 What I'm Building</h2>
+  
+  <table align="center">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td><a href="#">Project Alpha</a></td>
+      <td>A revolutionary AI-powered productivity tool</td>
+      <td>React, Node.js, TensorFlow</td>
+    </tr>
+    <tr>
+      <td><a href="#">Project Beta</a></td>
+      <td>Open-source contribution platform</td>
+      <td>Next.js, PostgreSQL, GraphQL</td>
+    </tr>
+    <tr>
+      <td><a href="#">Project Gamma</a></td>
+      <td>Creative portfolio builder for developers</td>
+      <td>Vue.js, Firebase, Tailwind</td>
+    </tr>
+    <tr>
+      <td><a href="#">Project Delta</a></td>
+      <td>Real-time collaboration workspace</td>
+      <td>React, Socket.io, MongoDB</td>
+    </tr>
+  </table>
+
+  <!-- Tech Stack Section -->
+  <h2 align="center">🛠️ Tech Stack</h2>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  </p>
+
+  <!-- GitHub Stats Section -->
+  <h2 align="center">📊 GitHub Stats</h2>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=preetisasmal&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetisasmal&theme=dracula&hide_border=true" alt="GitHub Streak">
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetisasmal&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+  </p>
+
+  <!-- Footer -->
+  <h2 align="center">🤝 Let's Connect</h2>
+  
+  <p align="center">
+    Feel free to reach out if you want to collaborate on a project, have a question, or just want to say hi!
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=preetisasmal&style=flat-square" alt="Profile Views">
+  </p>
+
+</div>
